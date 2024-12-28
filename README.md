@@ -4,7 +4,7 @@
 
 ### Resúmen
 
-Este proyecto se centra en analizar la prevalencia y las causas de la diabetes en Estados Unidos, utilizando un conjunto de datos equilibrado basado en la encuesta BRFSS 2015 del CDC, disponible en Kaggle. La diabetes, una enfermedad crónica que impacta significativamente la salud pública y la economía, afecta a millones de personas en el país. En la primera fase, se busca analizar y visualizar hallazgos clave en los datos de más de 70,000 participantes, lo que permitirá en fases posteriores desarrollar modelos predictivos para mejorar el diagnóstico y tratamiento de la diabetes.
+Este proyecto se centra en analizar la prevalencia y las causas de la diabetes en Estados Unidos, utilizando un conjunto de datos basado en la encuesta BRFSS 2015 del CDC, disponible en Kaggle. La diabetes, una enfermedad crónica que impacta significativamente la salud pública y la economía, afecta a millones de personas en el país. En la primera fase, se busca analizar y visualizar hallazgos clave en los datos de más de 70,000 participantes, lo que permitirá en fases posteriores desarrollar modelos predictivos para mejorar el diagnóstico y tratamiento de la diabetes.
 
 Dataset:
     Teboul, A. (2019). Diabetes Health Indicators Dataset. Kaggle. https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
@@ -63,6 +63,6 @@ Dataset:
 
 - **Df_diabetes.csv**: Este archivo contiene el conjunto de datos utilizado en el análisis, que incluye más de 70,000 respuestas sobre indicadores de salud y prevalencia de diabetes.
 
-- **Notebook del Proyecto**: El notebook contiene todo el desarrollo del proyecto, incluyendo la limpieza de datos, análisis exploratorio, pruebas de hipótesis, y la visualización de los resultados. (En caso de no poder abrir, consultar link: https://drive.google.com/drive/folders/1kxbkHKzarTTW_A-cvo0P2p2KYiWfSbJ7?usp=sharing)
+- **Notebook del Proyecto**: 
 
 
