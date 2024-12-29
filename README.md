@@ -63,6 +63,6 @@ Dataset:
 
 - **Df_diabetes.csv**: Este archivo contiene el conjunto de datos utilizado en el análisis, que incluye más de 70,000 respuestas sobre indicadores de salud y prevalencia de diabetes.
 
-- **Notebook del Proyecto**: 
+- **Notebook del Proyecto**: https://drive.google.com/drive/folders/1pkwRpyfI9ylG8GDh_yHCrlmdNTs3vv14?usp=drive_link
 
 
