@@ -14,10 +14,10 @@ Dataset:
 ### Hipótesis de interés:
 #### Basándonos en un análisis previo del conjunto de datos, planteamos las siguientes hipótesis:
 - La prevalencia de diabetes varía según el nivel educativo.
+- La edad influye en el padecimiento de la diabetes.
 - Factores como la obesidad y la hipertensión aumentan el riesgo de diabetes.
-- La actividad física y la dieta influyen en el desarrollo de diabetes.
 - El consumo del alcohol y tabaco influyen en el padecimiento de la diabetes.
-- La edad y el género influyen en el padecimiento de la diabetes.
+
 
 ### Objetivos:
 - Probar las hipótesis mediante análisis estadísticos y visualizaciones.
